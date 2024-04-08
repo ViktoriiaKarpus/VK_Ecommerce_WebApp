@@ -146,6 +146,7 @@ label a {
 .alert-img{
     display: block;
     margin: 10px auto 20px;
+    height: 60px;
 }
 
 .alert-msg{
